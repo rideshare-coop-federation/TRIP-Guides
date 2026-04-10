@@ -109,9 +109,15 @@ This repository is part of an early-stage initiative.
 
 ## Contact / Coordination
 
-For questions, collaboration, or interest in participating in this initiative, please reach out through the Rideshare Coop Federation organization.
+For questions, collaboration, or interest in participating in this initiative:
 
-Further coordination channels will be established as the initiative grows.
+**Emails:** 
+Jean @ jean.d.akingeneye@gmail.com
+Minsun @ minsun@rmeoc.org
+
+**Or** open a discussion in this repository
+
+This initiative is actively seeking collaborators, cooperative partners, and technical contributors.
 
 ---
 

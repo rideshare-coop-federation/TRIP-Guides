@@ -112,8 +112,8 @@ This repository is part of an early-stage initiative.
 For questions, collaboration, or interest in participating in this initiative:
 
 **Emails:** 
-Jean @ jean.d.akingeneye@gmail.com
-Minsun @ minsun@rmeoc.org
+Jean @ jean.d.akingeneye@gmail.com or @
+pennsylvaniadrivers@gmail.com
 
 **Or** open a discussion in this repository
 
